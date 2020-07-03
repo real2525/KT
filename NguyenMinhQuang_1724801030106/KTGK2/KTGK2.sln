@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTGK2", "KTGK2\KTGK2.csproj", "{4B9A5246-CAF2-4EDA-A6DC-63E830305FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_MVC", "Web_MVC\Web_MVC.csproj", "{A131A1ED-33B4-4305-9966-AC12AA8B0D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B9A5246-CAF2-4EDA-A6DC-63E830305FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9A5246-CAF2-4EDA-A6DC-63E830305FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9A5246-CAF2-4EDA-A6DC-63E830305FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9A5246-CAF2-4EDA-A6DC-63E830305FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A131A1ED-33B4-4305-9966-AC12AA8B0D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A131A1ED-33B4-4305-9966-AC12AA8B0D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A131A1ED-33B4-4305-9966-AC12AA8B0D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A131A1ED-33B4-4305-9966-AC12AA8B0D92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

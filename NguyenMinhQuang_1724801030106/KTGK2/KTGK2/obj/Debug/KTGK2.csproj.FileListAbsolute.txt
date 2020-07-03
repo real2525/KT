@@ -1,0 +1,180 @@
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\ApplicationInsights.config
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\csc.exe
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\vbc.exe
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\KTGK2.dll.config
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\KTGK2.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\KTGK2.pdb
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Antlr3.Runtime.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\EntityFramework.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\EntityFramework.SqlServer.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AI.Web.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Newtonsoft.Json.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Owin.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Net.Http.Formatting.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Helpers.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Http.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Http.Owin.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Http.WebHost.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Mvc.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Optimization.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Razor.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.WebPages.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\WebGrease.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AI.Web.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Newtonsoft.Json.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Net.Http.Formatting.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Helpers.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Http.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Http.WebHost.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Mvc.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Optimization.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Razor.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.WebPages.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Antlr3.Runtime.pdb
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\EntityFramework.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\EntityFramework.SqlServer.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\bin\System.Web.Http.Owin.xml
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\obj\Debug\KTGK2.csprojResolveAssemblyReference.cache
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\obj\Debug\KTGK2.dll
+C:\Users\Xuan Hoang\Desktop\KTGK2\KTGK2\KTGK2\obj\Debug\KTGK2.pdb
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\obj\Debug\KTGK2.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\obj\Debug\KTGK2.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\obj\Debug\KTGK2.pdb
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\ApplicationInsights.config
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\csc.exe
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\vbc.exe
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\KTGK2.dll.config
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\KTGK2.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\KTGK2.pdb
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Antlr3.Runtime.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\EntityFramework.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\EntityFramework.SqlServer.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AI.Web.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Newtonsoft.Json.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Owin.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Net.Http.Formatting.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Helpers.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Http.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Http.Owin.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Http.WebHost.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Mvc.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Optimization.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Razor.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.WebPages.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\WebGrease.dll
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AI.Web.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Newtonsoft.Json.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Net.Http.Formatting.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Helpers.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Http.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Http.WebHost.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Mvc.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Optimization.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Razor.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.WebPages.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Antlr3.Runtime.pdb
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\EntityFramework.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\EntityFramework.SqlServer.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Envy\Desktop\KTGK_part2-master\KTGK2\KTGK2\bin\System.Web.Http.Owin.xml
